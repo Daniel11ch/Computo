@@ -1,0 +1,12 @@
+#Imprimir Mensaje
+print("Hallar el area de un triangulo")
+
+#Ingreso de Datos
+Base = float(input("Ingresa la base: "))
+Altura = float(input("Ingresa la altura: "))
+
+#Proceso de Datos
+Area = (Base*Altura)/2
+
+#Salida de Datos
+print("El area es: ",area)
